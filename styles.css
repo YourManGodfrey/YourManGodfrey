@@ -1,4 +1,7 @@
-
+* {
+    box-sizing: border-box;
+    font-family:    "Permanent Marker", cursive, 'Times New Roman';
+}
 body {
     /* background-color: red; */
     /* type comment here */
@@ -12,7 +15,14 @@ h1 {
     font-size: 77px;    
     font-weight: bold;
     line-height: 0.5;   
+    padding: 10px 5px 25px;
+    margin: 5px auto;
+    border: 2px solid rgb(25, 96, 153);
+    background-color: rgb(19, 97, 26);
+    width: 35%;
+    height: 20%;
     text-align: center;
+    border-top: 3px
 }
 
 footer h2 {
@@ -39,15 +49,30 @@ p  {
     font-family:    "Permanent Marker", cursive, 'Times New Roman';
 }
 
-a{
+a   {
     color: rgb(20, 140, 196);
     text-decoration: none;
 }
 
-a:hover{
+a:hover {
     text-decoration: underline;
 }
 
-a:visited{
+a:visited   {
     color: rgb(16, 91, 126)
 }
+
+.maingroup  {
+    border: 2px solid rgb(25, 96, 153);
+    background-color: rgb(19, 97, 26);
+    width: 300px;
+}
+
+#socials  {
+    border: 2px solid rgb(25, 96, 153);
+    background-color: rgb(19, 97, 26);
+    width: 100%;
+    margin: 20px;
+    padding: 20px;
+}
+
