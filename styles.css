@@ -19,7 +19,7 @@ h1 {
     margin: 5px auto;
     border: 2px solid rgb(25, 96, 153);
     background-color: rgb(19, 97, 26);
-    width: 35%;
+    width: 650px;
     height: 20%;
     text-align: center;
     border-top: 3px
@@ -35,6 +35,10 @@ h2 {
     font-size: 42px;   
     font-weight: bold;  
     font-style: italic;
+    border: 1px solid rgb(25, 96, 153);
+    background-color: rgb(19, 97, 26);
+    width: 300px;
+    margin: 1px auto;
 }  
 
 
@@ -50,7 +54,7 @@ p  {
 }
 
 a   {
-    color: rgb(20, 140, 196);
+    color: rgb(25, 158, 219);
     text-decoration: none;
 }
 
@@ -59,10 +63,16 @@ a:hover {
 }
 
 a:visited   {
-    color: rgb(16, 91, 126)
+    color: rgb(24, 139, 192)
 }
 
 .maingroup  {
+    border: 2px solid rgb(25, 96, 153);
+    background-color: rgb(19, 97, 26);
+    width: 300px;
+}
+
+.second-group  {
     border: 2px solid rgb(25, 96, 153);
     background-color: rgb(19, 97, 26);
     width: 300px;
@@ -72,7 +82,30 @@ a:visited   {
     border: 2px solid rgb(25, 96, 153);
     background-color: rgb(19, 97, 26);
     width: 100%;
-    margin: 20px;
-    padding: 20px;
+    padding: 3px;
 }
 
+.first-bg   {
+    background-image: url(https://images.unsplash.com/photo-1511884642898-4c92249e20b6?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+
+}
+
+.second-bg   {
+    background-image: url(https://images.unsplash.com/photo-1527489377706-5bf97e608852?q=80&w=1259&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.flex-container    {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.sassy  {
+    max-width: 100px;
+}
