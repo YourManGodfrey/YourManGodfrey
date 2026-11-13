@@ -1,0 +1,58 @@
+1)WBC - The Word wild web consortium (W3C0 was formed to standardize HTML CSS- Cascading Style Sheets
+
+2)HIP- The Web is a communication technology that uses the Hypertext Transfer Protocol (HTTP) to send and receive data over the Internet GitHub- GitHub is an online platform used for storing and sharing code
+
+3)Git- Git allows you to create incremental "versions" of your code by tracking the changes made to a set of files
+
+4)Viewport- All content to be displayed in the browser goes in between the ‹body› and </body› tags.
+
+5)Repository- Where your Project is saved
+
+6)Push- pushes your code to GitHub to store
+
+7)Publish- makes changes you have made go live to the website
+
+8)src — short for “source”, this is path to the image file
+
+9)alt — short for “alternative text”, this is a text description of the image
+
+10)HTML Comments- Comments are blocks of text that the computer does not consider code and does not display h1 Element- short for heading 1. It is used for main titles or headings on a page or within sections
+
+11)The p Element- short for paragraph. It is used for longer blocks of text. There is no limit on length and it can include multiple sentences
+
+12)Semantic Elements-CSS- Cascading Style Sheets. It is a language with its own syntax used to separate content from presentation
+
+13)Link Element- used for “linking” to external files. They are used primarily for linking style sheets
+
+14)selector — specifies which HTML element(s) to apply the styles to
+
+15)declaration — a style “rule” written with property-value pairs
+
+17)property — the style attribute to specify
+
+18)value — the specified quality or quantity for the property
+
+19)cascading- part of the name comes from its ability to apply styles to elements and successively pass on these styles to sub-elements.
+
+20)Inheritance- child will inherit all its parent's colour styles unless they are overwritten by something more specific.
+
+21)Pseudo class selectors- Allow you to style elements in different states
+
+22)Element States- Anchor tags (and other elements) possess what we call "states"
+
+23)Box Sizing- The box-sizing property defines how the width and height of an element is calculated.
+
+24)Class Selectors- Classes allow you to link your HTML to your CSS with custom values
+
+25)Class Specificity- Classes are more specific than regular type selectors
+
+26)Containers- Containers are a web design term for “boxes” of content
+
+27)Background Images- work a little differently from regular <img> tags, They work more like a window with a view in the background
+
+28)The background-repeat Property- An image smaller than its container can either be stretched to fill the space or repeated to make a 
+pattern
+
+29)width — width of the image in pixels or percentages
+
+30)height — height of the image in pixels or percentages
